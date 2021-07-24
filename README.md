@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar.</h1>
-<h3 align="center">B.C.A | M.C.A | G.I.S ENGINEER | QA ANALYST | HTML | CSS | JAVASCRIPT | PHP | developer.</h3>
+<h3 align="center">SOFTWARE ENGINEER | HTML-5 | CSS | JAVASCRIPT | ANGULAR JS | MONGO DB | SQL | PHP | PYTHON | B.C.A | M.C.A | G.I.S ENGINEER | QA ANALYST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panku121&label=Profile%20views&color=0e75b6&style=flat" alt="panku121" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/panku12101" target="blank"><img src="https://img.shields.io/twitter/follow/panku12101?logo=twitter&style=for-the-badge" alt="panku12101" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB | RPA |**
+- 🌱 I’m currently learning **ANGULAR JS | MongoDB | RPA |**
 
 - 💬 Ask me about **HTML | CSS |**
 
 - 📫 How to reach me **pankajbca12101@gmail.com**
 
-- 📄 Know about my experiences [Recently resigned from my previous job as Sr. G.I.S engineer with over 7 years of experience in engineering, management and business development.](Recently resigned from my previous job as Sr. G.I.S engineer with over 7 years of experience in engineering, management and business development.)
+- 📄 Know about my experiences [Recently resigned from my previous job as Sr. G.I.S engineer with over 7 years of experience in engineering, management and business development.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
