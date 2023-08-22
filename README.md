@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar.</h1>
-<h3 align="center">SOFTWARE ENGINEER | HTML-5 | CSS | JAVASCRIPT | ANGULAR JS | MONGO DB | SQL | PHP | PYTHON | B.C.A | M.C.A | G.I.S ENGINEER | QA ANALYST</h3>
+<h3 align="center">ANGULAR FRONT-END DEVELOPER | ANGULAR | JAVASCRIPT | HTML | CSS | MONGO DB | SQL | PHP | PYTHON | B.C.A | M.C.A | G.I.S ENGINEER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panku121&label=Profile%20views&color=0e75b6&style=flat" alt="panku121" /> </p>
 
@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/panku12101" target="blank"><img src="https://img.shields.io/twitter/follow/panku12101?logo=twitter&style=for-the-badge" alt="panku12101" /></a> </p>
 
-- 🌱 I’m currently learning **ANGULAR JS | MongoDB | RPA |**
+- 🌱 I’m currently Currently working as Front-End Developer **ANGULAR JS | MongoDB | RPA |**
 
-- 💬 Ask me about **HTML | CSS |**
+- 💬 Ask me about **ANGULAR | JAVASCRIPT | HTML | CSS |**
 
 - 📫 How to reach me **pankajbca12101@gmail.com**
 
-- 📄 Know about my experiences [Recently resigned from my previous job as Sr. G.I.S engineer with over 7 years of experience in engineering, management and business development.]
-
+- 📄 About me: I am a Goal-oriented Front-End Developer with experience in developing User Interfaces (UI), Rich web applications, and rich web service applications using FrontEnd / User Interface technologies like javascript, Angular, Bootstrap, Angular CLI, Rest API, JSON, SASS, Visual Studio Code.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/panku12101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panku12101" height="30" width="40" /></a>
