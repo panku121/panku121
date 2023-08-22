@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/panku12101" target="blank"><img src="https://img.shields.io/twitter/follow/panku12101?logo=twitter&style=for-the-badge" alt="panku12101" /></a> </p>
 
-- 🌱 I’m currently working as Front-End Developer **ANGULAR JS | MongoDB | RPA |**
+- 🌱 I’m currently working as Front-End Developer **ANGULAR | JAVASCRIPT | HTML | SASS |**
 
 - 💬 Ask me about **ANGULAR | JAVASCRIPT | HTML | CSS |**
 
