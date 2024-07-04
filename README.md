@@ -13,10 +13,9 @@
 
 - 📫 How to reach me **pankajbca12101@gmail.com**
 
-- 📫 How to reach me **https://pankajkumar.site**
+- 📫 Portfolio: <a href="https://pankajkumar.site" target="_blank">**Pankaj Kumar**</a>
 
 - 📄 About me: I am a Goal-oriented Front-End Developer with experience in developing User Interfaces (UI), Rich web applications, and rich web service applications using FrontEnd / User Interface technologies like javascript, Angular, Bootstrap, Angular CLI, Rest API, JSON, SASS, Visual Studio Code.
-<h3 align="left">Portfolio:</h3><a href="https://pankajkumar.site" target="blank">Pankaj Kumar</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/panku12101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panku12101" height="30" width="40" /></a>
