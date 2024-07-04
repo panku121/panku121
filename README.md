@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panku121" alt="panku121" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/panku12101" target="blank"><img src="https://img.shields.io/twitter/follow/panku12101?logo=twitter&style=for-the-badge" alt="panku12101" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=panku121)](https://github.com/panku121/github-profile-trophy)
 
 - 🌱 I’m currently working as Front-End Developer **ANGULAR | JAVASCRIPT | HTML | SASS |**
 
